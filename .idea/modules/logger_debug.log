@@ -1,0 +1,211 @@
+2018-07-01 01:13:37  [ main:0 ] - [ INFO ]  jhZszg684Tz18JXB5lRW8A==
+2018-07-01 01:14:13  [ main:0 ] - [ INFO ]  24
+2018-07-01 01:14:33  [ main:0 ] - [ INFO ]  24
+2018-07-01 01:27:05  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:27:06  [ main:642 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:27:06  [ main:706 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:27:06  [ main:708 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:27:06  [ main:709 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:27:06  [ main:710 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:27:06  [ main:711 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:27:06  [ main:712 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:27:06  [ main:713 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:27:06  [ main:714 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:27:06  [ main:714 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:27:06  [ main:715 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:27:06  [ main:715 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:27:06  [ main:828 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmof19l114z364|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmof19l114z364|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:27:06  [ main:1494 ] - [ INFO ]  返回连接对象
+2018-07-01 01:27:26  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:27:26  [ main:673 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:27:26  [ main:731 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:27:26  [ main:732 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:27:26  [ main:732 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:27:26  [ main:733 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:27:26  [ main:733 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:27:26  [ main:734 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:27:26  [ main:734 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:27:26  [ main:734 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:27:26  [ main:735 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:27:26  [ main:736 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:27:26  [ main:736 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:27:26  [ main:824 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmofh8r11sok81|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmofh8r11sok81|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:27:27  [ main:1402 ] - [ INFO ]  返回连接对象
+2018-07-01 01:27:46  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:27:46  [ main:672 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:27:46  [ main:730 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:27:46  [ main:730 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:27:46  [ main:731 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:27:46  [ main:731 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:27:46  [ main:732 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:27:46  [ main:732 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:27:46  [ main:733 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:27:46  [ main:733 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:27:46  [ main:734 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:27:46  [ main:734 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:27:46  [ main:735 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:27:47  [ main:840 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmofwpakytihi|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmofwpakytihi|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:27:47  [ main:1539 ] - [ INFO ]  返回连接对象
+2018-07-01 01:28:54  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:28:54  [ main:645 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:28:54  [ main:704 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:28:54  [ main:705 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:28:54  [ main:706 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:28:54  [ main:707 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:28:54  [ main:707 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:28:54  [ main:708 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:28:54  [ main:708 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:28:54  [ main:709 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:28:54  [ main:709 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:28:54  [ main:710 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:28:54  [ main:710 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:28:55  [ main:798 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmohd8r1kfh97l|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmohd8r1kfh97l|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:28:55  [ main:1399 ] - [ INFO ]  返回连接对象
+2018-07-01 01:29:04  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:29:05  [ main:674 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:29:05  [ main:732 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:29:05  [ main:733 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:29:05  [ main:733 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:29:05  [ main:733 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:29:05  [ main:734 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:29:05  [ main:734 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:29:05  [ main:734 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:29:05  [ main:735 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:29:05  [ main:735 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:29:05  [ main:735 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:29:05  [ main:735 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:29:05  [ main:828 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmohlfbq6qhe|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmohlfbq6qhe|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:29:06  [ main:1437 ] - [ INFO ]  返回连接对象
+2018-07-01 01:29:59  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:29:59  [ main:636 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:29:59  [ main:695 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:29:59  [ main:695 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:29:59  [ main:696 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:29:59  [ main:697 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:29:59  [ main:698 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:29:59  [ main:698 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:29:59  [ main:699 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:29:59  [ main:699 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:29:59  [ main:699 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:29:59  [ main:700 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:29:59  [ main:700 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:30:00  [ main:796 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmoiref1i57bi5|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmoiref1i57bi5|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:30:00  [ main:1368 ] - [ INFO ]  返回连接对象
+2018-07-01 01:30:00  [ main:1460 ] - [ FATAL ]  Duplicate entry 'Amy' for key 'PRIMARY'
+2018-07-01 01:31:09  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:31:09  [ main:675 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:31:09  [ main:748 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:31:09  [ main:748 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:31:09  [ main:749 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:31:09  [ main:750 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:31:09  [ main:750 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:31:09  [ main:751 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:31:09  [ main:751 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:31:09  [ main:752 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:31:09  [ main:752 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:31:09  [ main:752 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:31:09  [ main:754 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:31:09  [ main:835 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmok9au13he98d|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmok9au13he98d|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:31:10  [ main:1487 ] - [ INFO ]  返回连接对象
+2018-07-01 01:31:10  [ main:1581 ] - [ FATAL ]  1062
+2018-07-01 01:41:53  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:41:54  [ main:1013 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:41:54  [ main:1074 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:41:54  [ main:1075 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:41:54  [ main:1075 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:41:54  [ main:1076 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:41:54  [ main:1076 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:41:54  [ main:1077 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:41:54  [ main:1077 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:41:54  [ main:1078 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:41:54  [ main:1078 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:41:54  [ main:1078 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:41:54  [ main:1079 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:41:55  [ main:1175 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmoy2s54vuk1q|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmoy2s54vuk1q|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:41:55  [ main:1849 ] - [ INFO ]  返回连接对象
+2018-07-01 01:41:55  [ main:1949 ] - [ FATAL ]  Duplicate entry 'Amy' for key 'PRIMARY'
+2018-07-01 01:42:35  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:42:36  [ main:675 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:42:36  [ main:730 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:42:36  [ main:731 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:42:36  [ main:732 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:42:36  [ main:732 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:42:36  [ main:733 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:42:36  [ main:733 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:42:36  [ main:734 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:42:36  [ main:734 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:42:36  [ main:735 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:42:36  [ main:735 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:42:36  [ main:736 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:42:36  [ main:835 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmoyysv1y8yhhs|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmoyysv1y8yhhs|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:42:36  [ main:1503 ] - [ INFO ]  返回连接对象
+2018-07-01 01:42:36  [ main:1590 ] - [ FATAL ]  Duplicate entry 'Amy' for key 'PRIMARY'
+2018-07-01 01:42:56  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 01:42:57  [ main:722 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 01:42:57  [ main:791 ] - [ INFO ]  创建数据库连接池
+2018-07-01 01:42:57  [ main:791 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 01:42:57  [ main:792 ] - [ INFO ]  设置用户名：root
+2018-07-01 01:42:57  [ main:792 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 01:42:57  [ main:793 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 01:42:57  [ main:793 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 01:42:57  [ main:793 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 01:42:57  [ main:794 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 01:42:57  [ main:794 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 01:42:57  [ main:795 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 01:42:57  [ main:795 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 01:42:57  [ main:890 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmozf9jn0fck1|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmozf9jn0fck1|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 01:42:58  [ main:1486 ] - [ INFO ]  返回连接对象
+2018-07-01 02:05:40  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 02:05:41  [ main:1023 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 02:05:41  [ main:1078 ] - [ INFO ]  创建数据库连接池
+2018-07-01 02:05:41  [ main:1079 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 02:05:41  [ main:1080 ] - [ INFO ]  设置用户名：root
+2018-07-01 02:05:41  [ main:1080 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 02:05:41  [ main:1081 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 02:05:41  [ main:1081 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 02:05:41  [ main:1082 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 02:05:41  [ main:1082 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 02:05:41  [ main:1082 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 02:05:41  [ main:1083 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 02:05:41  [ main:1083 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 02:05:41  [ main:1177 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wmpsnaxjqshlh|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wmpsnaxjqshlh|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 02:05:41  [ main:1788 ] - [ INFO ]  返回连接对象
+2018-07-01 02:05:41  [ main:1863 ] - [ INFO ]  返回连接对象
+2018-07-01 10:31:48  [ main:0 ] - [ INFO ]  Before Query User: Cindy, the user profile is User{username='Cindy', id='MT+31aZzrBKEJIALS62Sew==', password='4QrcOUm6Wau+VuBX8g+IPg==', status=0}
+2018-07-01 10:31:48  [ main:60 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 10:31:49  [ main:938 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 10:31:49  [ main:994 ] - [ INFO ]  创建数据库连接池
+2018-07-01 10:31:49  [ main:995 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 10:31:49  [ main:995 ] - [ INFO ]  设置用户名：root
+2018-07-01 10:31:49  [ main:996 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 10:31:49  [ main:996 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 10:31:49  [ main:997 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 10:31:49  [ main:997 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 10:31:49  [ main:997 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 10:31:49  [ main:998 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 10:31:49  [ main:998 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 10:31:49  [ main:999 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 10:31:49  [ main:1082 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wn7vjpu198g7fi|6f79caec, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wn7vjpu198g7fi|6f79caec, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 10:31:50  [ main:1627 ] - [ INFO ]  返回连接对象
+2018-07-01 10:31:50  [ main:1671 ] - [ INFO ]  After validation, the user object contains User{username='Cindy', id='6lPYAEVrugTXTGS3JrPY9g==', password='4QrcOUm6Wau+VuBX8g+IPg==', status=0}
+2018-07-01 10:33:36  [ main:0 ] - [ INFO ]  MLog clients using log4j logging.
+2018-07-01 10:33:37  [ main:831 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2018-07-01 10:33:37  [ main:900 ] - [ INFO ]  创建数据库连接池
+2018-07-01 10:33:37  [ main:901 ] - [ INFO ]  设置MySQL驱动：com.mysql.jdbc.Driver
+2018-07-01 10:33:37  [ main:901 ] - [ INFO ]  设置用户名：root
+2018-07-01 10:33:37  [ main:904 ] - [ INFO ]  设置密码：948337182,Brian
+2018-07-01 10:33:37  [ main:904 ] - [ INFO ]  设置数据库URL：jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8
+2018-07-01 10:33:37  [ main:905 ] - [ INFO ]  设置初始连接对象个数：3
+2018-07-01 10:33:37  [ main:906 ] - [ INFO ]  设置最大连接对象个数：20
+2018-07-01 10:33:37  [ main:908 ] - [ INFO ]  设置最小连接对象数量：3
+2018-07-01 10:33:37  [ main:909 ] - [ INFO ]  设置最大PreparedStatement缓存数量：20
+2018-07-01 10:33:37  [ main:909 ] - [ INFO ]  设置最大空闲时间：0（即永远生效）
+2018-07-01 10:33:37  [ main:910 ] - [ INFO ]  DBConnectionManager单例对象创建完成
+2018-07-01 10:33:37  [ main:1025 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeby99wn7xv88woxa93|2d6d8735, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeby99wn7xv88woxa93|2d6d8735, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 20, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2018-07-01 10:33:38  [ main:1686 ] - [ INFO ]  返回连接对象
+2018-07-01 10:33:38  [ main:2037 ] - [ FATAL ]  Duplicate entry 'Amy' for key 'PRIMARY'
+2018-07-01 10:33:38  [ main:2179 ] - [ INFO ]  Before Query User: Cindy, the user profile is User{username='Cindy', id='ZmbPEjz64TueCw4lxSJBfQ==', password='4QrcOUm6Wau+VuBX8g+IPg==', status=0}
+2018-07-01 10:33:38  [ main:2180 ] - [ INFO ]  返回连接对象
+2018-07-01 10:33:38  [ main:2192 ] - [ INFO ]  After validation, the user object contains User{username='Cindy', id='6lPYAEVrugTXTGS3JrPY9g==', password='4QrcOUm6Wau+VuBX8g+IPg==', status=0}
+2018-07-01 10:33:38  [ main:2194 ] - [ INFO ]  返回连接对象
+2018-07-01 10:33:38  [ main:2195 ] - [ INFO ]  返回连接对象
