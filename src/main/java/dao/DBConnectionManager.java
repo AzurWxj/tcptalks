@@ -15,7 +15,7 @@ public class DBConnectionManager {
             JDBC_DRIVER = "com.mysql.jdbc.Driver",
             DB_URL = "jdbc:mysql://localhost:3306/tcptalks?serverTimezone=UTC&useUnicode=yes&characterEncoding=UTF-8",
             DB_USER="root",
-            DB_PASSWORD="948337182,Brian";
+            DB_PASSWORD="root";
 
     private static Logger logger=Logger.getLogger(DBConnectionManager.class);
 
